@@ -76,11 +76,8 @@ Use the same mapping on both boards (Red & Yellow).
 ---
 
 ## 📷 Demo & Showcase
-
-[Add images or YouTube video link here if available]
+   
+![WhatsApp Image 2025-04-19 at 12 50 07_a2aa5b3a](https://github.com/user-attachments/assets/3373396b-bd53-43b5-853a-ca3455652f17)
 
 ---
 
-## 🛡️ License
-
-MIT License
